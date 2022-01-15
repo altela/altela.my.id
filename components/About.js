@@ -23,21 +23,20 @@ return(
                 <br />
             </div>
 
-            <strong className=" mb-5 text-3xl font-white">
+            <strong className="mb-5 text-2xl text-blue-900 font-mono">
                 <Typical
                     steps={[
-                    'A Backend Developer.',
-                    1200,
-                    'Odoo ERP Developer.',
-                    1200,
                     'Server Administrator.',
-                    1200,
-                    'A Backend Developer.',
-                    1200,
+                    5,
+                    'Odoo ERP Developer.',
+                    5,
+                    'A Backend Developer, Based in Balikpapan, East Borneo.',
+                    50,
                     ]}
                     wrapper="p"
                     loop={1}
                 />
+
             </strong>
         </div>
 
