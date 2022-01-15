@@ -23,7 +23,7 @@ return(
                 <br />
             </div>
 
-            <strong className="mb-5 text-2xl text-blue-900 font-mono">
+            <strong className="mb-5 text-2xl text-gray-800 font-mono">
                 <Typical
                     steps={[
                     'Server Administrator.',
