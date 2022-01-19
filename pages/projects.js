@@ -1,5 +1,5 @@
 import Head from 'next/head'
-import About from "../components/About"
+import Mains from "../components/Mains"
 import Footer from "../components/Footer"
 
 export default function Projects() {
