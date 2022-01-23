@@ -8,7 +8,7 @@ const Navigation = () => {
                 <div class="grid gap-x-5 grid-cols-3">
                     <div>
                         <Link href="/">
-                        <a className={"font-large tracking-wider transition-colors text-white hover:text-sky-500 uppercase"} >
+                        <a className={"font-medium tracking-wider transition-colors text-white hover:text-sky-500 uppercase"} >
                         ◆
                         </a>
                     </Link>
