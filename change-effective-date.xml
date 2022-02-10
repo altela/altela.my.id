@@ -1,0 +1,215 @@
+<t t-name="website.track-fields-inventory">
+  <t t-call="website.layout">
+    <div id="wrap" class="oe_structure oe_empty">
+      <section class="s_text_image o_cc o_cc5 pt48 pb48 o_colored_level" data-snippet="s_image_text" data-name="Image - Text" style="background-image: none;">
+        <div class="container-fluid">
+          <div class="row align-items-center">
+            <div class="col-lg-6 pt16 pb16 o_colored_level" style="">
+              <img src="/web/image/482-cdfda88b/banner%2520INVEN.svg" class="img img-fluid mx-auto" alt="" data-file-name="banner%20INVEN.svg" data-shape="web_editor/basic/bsc_square_1" data-shape-colors=";;;;" loading="lazy" data-original-mimetype="image/jpeg" style="" data-original-title="" title="" aria-describedby="tooltip763634" data-original-id="305" data-original-src="/web/image/305-64b69535/banner%20INVEN.jpg" data-mimetype="image/svg+xml" data-resize-width="555"/>
+            </div>
+            <div class="col-lg-5 offset-lg-1 pt48 pb32 o_colored_level">
+              <h3>Change Effective Date</h3>
+              <p><br/>This module will allows you to change the effective date (or also known as delivery date) after a "done" state.</p>
+              <p data-original-title="" title="" aria-describedby="tooltip503318"><a href="https://apps.odoo.com/apps/modules/15.0/effective_date_change/" class="mb-2 btn btn-primary" data-original-title="" title="" target="_blank" style=""><span class="fa fa-shopping-cart" data-original-title="" title="" aria-describedby="tooltip337095"/>&amp;nbsp; Purchase &amp;amp; Download</a>&amp;nbsp;<a href="https://www.youtube.com/watch?v=VoztQqnoeuM" class="mb-2 btn btn-primary" data-original-title="" title="" target="_blank" style=""><span class="fa fa-video-camera" data-original-title="" title="" aria-describedby="tooltip337095"/>&amp;nbsp;Watch Demo </a>&amp;nbsp;<br/></p>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="s_tabs pt48 pb48 o_colored_level o_cc o_cc5" data-vcss="001" data-snippet="s_tabs" data-name="Tabs" style="background-image: none;">
+        <div class="container">
+          <div class="s_tabs_main">
+            <div class="s_tabs_nav mb-3">
+              <ul class="nav nav-pills" role="tablist">
+                <li class="nav-item">
+                  <a class="nav-link active" id="nav_tabs_link_1653383234392_303" data-toggle="tab" href="#nav_tabs_content_1653383234392_303" role="tab" aria-controls="nav_tabs_content_1653383234392_303" aria-selected="true">Module Purpose &amp;amp; Features</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" id="nav_tabs_link_1653383234392_304" data-toggle="tab" href="#nav_tabs_content_1653383234392_304" role="tab" aria-controls="nav_tabs_content_1653383234392_304" aria-selected="false">Technical Installation</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" id="nav_tabs_link_1653383234392_305" data-toggle="tab" href="#nav_tabs_content_1653383234392_305" role="tab" aria-controls="nav_tabs_content_1653383234392_305" aria-selected="false">Change Logs</a>
+                </li>
+              </ul>
+            </div>
+            <div class="s_tabs_content tab-content">
+              <div class="tab-pane fade active show" id="nav_tabs_content_1653383234392_303" role="tabpanel" aria-labelledby="nav_tabs_link_1653383234392_303">
+                <div class="oe_structure oe_empty" data-editor-message="DRAG BUILDING BLOCKS HERE">
+                  <section class="s_text_block" style="background-image: none;" data-name="Text">
+                    <div class="s_allow_columns container">
+                      <h6 style="text-align: center;"><br/>Effective date is a date at which the transfer has been processed or cancelled. Normally, when you validated a pickings (Receives or Delivery Order), current today's date will always be chosen as it's processed date and that will also affect stock journals calculation. But, what if you want to choose another date instead?</h6>
+                      <h6 style="text-align: center;"><br/><br/><span style="font-size: 24px;"><font style="color: rgb(231, 99, 99);">Well, This Module is Your Solution!</font></span><br/><br/><br/>This module will allows you to change the effective date (or also known as delivery date) after a "done" state.<br/><br/></h6>
+                      <p>
+                        <img class="img-fluid o_we_custom_image mx-auto d-block" src="/web/image/493-d8164a71/effective.png" alt="" data-original-title="" title="" aria-describedby="tooltip327615" style="" loading="lazy" data-original-id="491" data-original-src="/web/image/491-d082e746/effective.png" data-mimetype="image/png" data-resize-width="512"/>
+                      </p>
+                      <p>
+                        <br/>
+                        <br/>
+                      </p>
+                      <h4 style="text-align: center;">
+                        <font style="color: rgb(231, 99, 99);">Support Future or Past Date Changing</font>
+                      </h4>
+                      <h6 style="text-align: center;">Allows you to set the date from past, even future date!</h6>
+                      <h6 style="text-align: center;">
+                        <br/>
+                      </h6>
+                      <h6 style="text-align: center;">
+                        <img class="img-fluid o_we_custom_image" src="/web/image/494-fc655f4f/future.png" alt="" data-original-title="" title="" aria-describedby="tooltip58805" loading="lazy" style="" data-original-id="492" data-original-src="/web/image/492-8d61fcf8/future.png" data-mimetype="image/png" data-resize-width="512"/>
+                      </h6>
+                      <h6 style="text-align: center;">&amp;nbsp;</h6>
+                      <h4 style="text-align: center;">
+                        <font style="color: rgb(231, 99, 99);">Not Only Changes Inside The Pickings</font>
+                      </h4>
+                      <h6 style="text-align: center;">But also in Stock Moves and Journal, automatically!</h6>
+                      <h6 style="text-align: center;">
+                        <br/>
+                      </h6>
+                      <h6 style="text-align: center;">
+                        <img class="img-fluid o_we_custom_image" src="/web/image/495-ffeb600d/journal.png" alt=""/>
+                      </h6>
+                      <p style="text-align: center;">
+                        <br/>
+                      </p>
+                      <p style="text-align: center;">
+                        <img class="img-fluid o_we_custom_image" src="/web/image/500-39588676/productmoves.png" alt="" data-original-title="" title="" aria-describedby="tooltip86822" data-original-id="497" data-original-src="/web/image/497-804cacc4/productmoves.png" data-mimetype="image/png" data-resize-width="471"/>
+                        <br/>
+                        <br/>
+                      </p>
+                      <h4 style="text-align: center;">
+                        <font style="color: rgb(231, 99, 99);">Save Your Time</font>
+                      </h4>
+                      <h6 style="text-align: center;">By changing multiple-related record easily, with just one click</h6>
+                      <h6 style="text-align: center;">
+                        <br/>
+                      </h6>
+                      <h6 style="text-align: center;">
+                        <img class="img-fluid o_we_custom_image" src="/web/image/498-cbafea24/apply.png" alt=""/>
+                        <br/>
+                      </h6>
+                      <p style="text-align: center;">
+                        <br/>
+                      </p>
+                      <h6 style="text-align: center;">
+                        <br/>
+                      </h6>
+                      <h4 style="text-align: center;">
+                        <font style="color: rgb(231, 99, 99);">For selectable user</font>
+                      </h4>
+                      <h6 style="text-align: center;">
+                        <span style="color: rgb(100, 100, 100); font-weight: 300">
+                          <font class="text-o-color-4">Set certain user to have this privilege of changing effective date<br/><br/></font>
+                        </span>
+                      </h6>
+                      <h6 style="text-align: center;">
+                        <img class="img-fluid o_we_custom_image" src="/web/image/501-b255fa59/user.png" alt="" data-original-id="499" data-original-src="/web/image/499-080734e8/user.png" data-mimetype="image/png" data-original-title="" title="" aria-describedby="tooltip279059" data-resize-width="1024" style=""/>
+                        <br/>
+                      </h6>
+                      <h6 style="text-align: center;">
+                        <br/>
+                      </h6>
+                    </div>
+                  </section>
+                </div>
+              </div>
+              <div class="tab-pane fade" id="nav_tabs_content_1653383234392_304" role="tabpanel" aria-labelledby="nav_tabs_link_1653383234392_304">
+                <div class="oe_structure oe_empty" data-editor-message="DRAG BUILDING BLOCKS HERE">
+                  <section class="s_text_block" style="background-image: none;" data-name="Text">
+                    <div class="container s_allow_columns">
+                      <p/>
+                      <ol>
+                        <li>Download this module and put it inside your odoo addons file.</li>
+                        <li>From Odoo interface, enter the&amp;nbsp;<b><font style="color: rgb(231, 99, 99);">Debug Mode</font></b>&amp;nbsp;&amp;gt;&amp;nbsp;<b><font style="color: rgb(231, 99, 99);">Apps menu</font></b>&amp;nbsp;&amp;gt;&amp;nbsp;<b><font style="color: rgb(231, 99, 99);">update apps</font></b>.</li>
+                        <li>In the search bar, delete everything and type in&amp;nbsp;<b><font style="color: rgb(231, 99, 99);">Change Effective Date</font></b></li>
+                        <li>Restart your Odoo service</li>
+                        <li>Go to <font style="color: rgb(231, 99, 99); font-weight: bolder;">Settings</font> &amp;gt; <font style="color: rgb(231, 99, 99);"><span style="font-weight: bolder;">Select User</span>&amp;nbsp;<span style="color: rgb(255, 255, 255); background-color: rgb(35, 38, 43)">&amp;gt;</span><span style="font-weight: bolder;">Grant The Privilege</span></font></li>
+                        <li>Refresh your browser, now you will be able to set the effective date</li>
+                      </ol>
+                      <p>Note : if there's error when you are about to install, try to restart your odoo services and then begin your installation.<br/></p>
+                      <p/>
+                    </div>
+                  </section>
+                </div>
+              </div>
+              <div class="tab-pane fade" id="nav_tabs_content_1653383234392_305" role="tabpanel" aria-labelledby="nav_tabs_link_1653383234392_305">
+                <div class="oe_structure oe_empty" data-editor-message="DRAG BUILDING BLOCKS HERE">
+                  <section class="s_text_block" style="background-image: none;" data-name="Text">
+                    <div class="container s_allow_columns">
+                      <ul>
+                        <li><font style="color: rgb(231, 99, 99); font-weight: bolder;">Version 15.0.0.1.1 (13&amp;nbsp;Mar&amp;nbsp;2022)</font><br/><ul/>Fixed bug on changing picking effective date based on&amp;nbsp;existence of&amp;nbsp;vendor bills<br/><br/></li>
+                        <li><font color="#e76363"><span style="font-weight: bolder;">Version 15.0.0.1.0 (12 Mar&amp;nbsp;2022)</span></font><br/>
+                          Released for Odoo version 15.0
+                          <br/>
+                          <br/>
+                        </li>
+                        <li><font style="color: rgb(231, 99, 99); font-weight: bolder;">Version 14.0.0.1.0 (10&amp;nbsp;Mar&amp;nbsp;2022)</font><br/>
+                          Released for Odoo version 14.0
+                          <br/>
+                          <br/>
+                        </li>
+                        <li><font style="color: rgb(231, 99, 99); font-weight: bolder;">Version 13.0.0.1.0 (28&amp;nbsp;Feb&amp;nbsp;2022)</font><br/>Released for Odoo version 13.0<br/><br/></li>
+                        <li>
+                          <font style="color: rgb(231, 99, 99); font-weight: bolder;">Version 12.0.0.1.0 (5 Feb&amp;nbsp;2022)</font>
+                          <br/>
+                          <span style="font-weight: normal;">Released for Odoo version 12.0</span>
+                        </li>
+                      </ul>
+                    </div>
+                  </section>
+                </div>
+              </div>
+              <div class="tab-pane fade" id="nav_tabs_content_1653383205102_289" role="tabpanel" aria-labelledby="nav_tabs_link_1653383205102_289">
+                <div class="oe_structure oe_empty" data-editor-message="DRAG BUILDING BLOCKS HERE">
+                  <section class="s_text_block" style="background-image: none;" data-name="Text">
+                    <div class="container s_allow_columns">
+                      <div class="oe_span12">
+                        <h4 class="oe_slogan">Create History After Editing Inventory</h4>
+                      </div>
+                    </div>
+                  </section>
+                </div>
+              </div>
+              <div class="tab-pane fade" id="nav_tabs_content_1653037869046_95" role="tabpanel" aria-labelledby="nav_tabs_link_1653037869046_95">
+                <div class="oe_structure oe_empty" data-editor-message="DRAG BUILDING BLOCKS HERE">
+                  <section class="s_text_block" style="background-image: none;" data-name="Text">
+                    <div class="container s_allow_columns">
+                      <ul>
+                        <li>
+                          <span style=" color: rgb(255, 255, 255); background-color: rgb(35, 38, 43); font-size: 18px">15.0.0.1.0 - (7 May 2022)</span>
+                          <br/>
+                          <span style=" color: rgb(255, 255, 255); background-color: rgb(35, 38, 43)">Released for Odoo Version 14</span>
+                          <br/>
+                          <br/>
+                        </li>
+                        <li>
+                          <span style=" color: rgb(255, 255, 255); background-color: rgb(35, 38, 43); font-size: 18px">14.0.0.1.0 - (7 May 2022)</span>
+                          <br/>
+                          <span style="color: rgb(255, 255, 255); background-color: rgb(35, 38, 43)">Released for Odoo Version 14<br/></span>
+                          <br/>
+                        </li>
+                        <li><span style="font-size: 18px;">13.0.0.1.0 - (7 May 2022)</span><br/>Released for Odoo Version 13<br/><br/></li>
+                        <li>
+                          <p><span style=" color: rgb(255, 255, 255); background-color: rgb(35, 38, 43)"><span style=" font-size: 18px">12.0.0.1.0 - (5 May 2022)</span><br/></span>Released for Odoo Version 12&amp;nbsp;</p>
+                        </li>
+                      </ul>
+                      <p>
+                        <br/>
+                      </p>
+                    </div>
+                  </section>
+                </div>
+              </div>
+              <div class="tab-pane fade" id="nav_tabs_content_1653037869046_96" role="tabpanel" aria-labelledby="nav_tabs_link_1653037869046_96">
+                <div class="oe_structure oe_empty" data-editor-message="DRAG BUILDING BLOCKS HERE">
+                  <section class="s_text_block" style="background-image: none;" data-name="Text">
+                    <div class="container s_allow_columns">
+                      <p class="o_default_snippet_text">Start with the customer – find out what they want and give it to them.</p>
+                    </div>
+                  </section>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+  </t>
+</t>
