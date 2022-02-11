@@ -1,0 +1,292 @@
+<t t-name="website.experiences">
+  <t t-call="website.layout">
+    <div id="wrap" class="oe_structure oe_empty">
+      <section class="s_features_grid pt48 o_cc o_cc5 o_colored_level pb0" data-snippet="s_features_grid" data-name="Features Grid" style="background-image: none; position: relative;" data-oe-shape-data="{&quot;shape&quot;:&quot;web_editor/Floats/12&quot;,&quot;flip&quot;:[]}">
+        <div class="o_we_shape o_web_editor_Floats_12"/>
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-6 s_col_no_bgcolor pb24">
+              <div class="row">
+                <div class="col-lg-12 pb24 o_colored_level" data-name="Box">
+                  <div class="s_text_highlight bg-secondary my-3 text-center w-100 o_colored_level" data-snippet="s_text_highlight" data-name="Text Highlight">
+                    <div class="container">
+                      <h3 class="o_default_snippet_text">Odoo ERP Development<br/></h3>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-lg-12 pt16 pb16 o_colored_level" data-name="Box">
+                  <i class="fa fa-2x s_features_grid_icon rounded fa-code bg-white" data-original-title="" title="" aria-describedby="tooltip236541"/>
+                  <div class="s_features_grid_content">
+                    <h4>Custom Module &amp;amp; App<br/></h4>
+                    <p>Create and develop custom module &amp;amp; app based on necessities.<br/></p>
+                  </div>
+                </div>
+                <div class="col-lg-12 pt16 pb16 o_colored_level" data-name="Box">
+                  <i class="fa fa-2x s_features_grid_icon rounded bg-white fa-download fa-2x s_features_grid_icon rounded bg-white" data-original-title="" title="" aria-describedby="tooltip600352"/>
+                  <div class="s_features_grid_content">
+                    <h4>Deployment</h4>
+                    <p>Odoo installation on server (on-premise), Odoo-sh, and Odoo Online platform.<br/></p>
+                  </div>
+                </div>
+                <div class="col-lg-12 pt16 pb16 o_colored_level" data-name="Box">
+                  <i class="fa s_features_grid_icon rounded fa-2x bg-white fa-cloud-upload s_features_grid_icon rounded fa-2x bg-white" data-original-title="" title="" aria-describedby="tooltip978041"/>
+                  <div class="s_features_grid_content">
+                    <h4>Migration</h4>
+                    <p>Odoo ERP migration from On-Premise server to cloud platform or vice versa.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-6 s_col_no_bgcolor pb24">
+              <div class="row">
+                <div class="col-lg-12 pb24 o_colored_level" data-name="Box">
+                  <div class="s_text_highlight bg-secondary my-3 text-center w-100 o_colored_level" data-snippet="s_text_highlight" data-name="Text Highlight">
+                    <div class="container">
+                      <h3 class="o_default_snippet_text">IT Support<br/></h3>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-lg-12 pt16 pb16 o_colored_level" data-name="Box">
+                  <i class="fa rounded s_features_grid_icon fa-2x bg-white fa-windows rounded s_features_grid_icon fa-2x bg-white" data-original-title="" title="" aria-describedby="tooltip564169"/>
+                  <div class="s_features_grid_content">
+                    <h4>Operating System Deployment<br/></h4>
+                    <p>Microsoft Widows, Linus Distros, or Machintosh on server or end-devices.<br/></p>
+                  </div>
+                </div>
+                <div class="col-lg-12 pt16 pb16 o_colored_level" data-name="Box">
+                  <i class="fa rounded s_features_grid_icon bg-white fa-2x fa-stethoscope rounded s_features_grid_icon bg-white fa-2x" data-original-title="" title="" aria-describedby="tooltip378734"/>
+                  <div class="s_features_grid_content">
+                    <h4>Device Maintenance &amp;amp; Troubleshot<br/></h4>
+                    <p>Computer, laptop, network, CCTV, or other IT device related.</p>
+                  </div>
+                </div>
+                <div class="col-lg-12 pt16 pb16 o_colored_level" data-name="Box">
+                  <i class="fa rounded s_features_grid_icon bg-white fa-2x fa-book rounded s_features_grid_icon bg-white fa-2x" data-original-title="" title="" aria-describedby="tooltip21951"/>
+                  <div class="s_features_grid_content">
+                    <h4>Documentation</h4>
+                    <p>Write detailed description on troubleshooting and guidance.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="s_references o_colored_level o_cc o_cc5 pt0 pb0" data-snippet="s_references" data-name="References" style="background-image: none; position: relative;" data-oe-shape-data="{&quot;shape&quot;:&quot;web_editor/Floats/12&quot;,&quot;flip&quot;:[]}">
+        <div class="o_we_shape o_web_editor_Floats_12"/>
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-2 pt16 pb16 o_colored_level">
+              <img src="/web/image/440-bf85484e/python-brands%2B%285%29%20%281%29.svg" class="img img-fluid mx-auto" alt="" loading="lazy" style="width: 75% !important;" data-original-title="" title="" aria-describedby="tooltip343587" data-original-id="440" data-original-src="/web/image/440-bf85484e/python-brands%2B%285%29%20%281%29.svg" data-mimetype="image/svg+xml" data-resize-width="100"/>
+            </div>
+            <div class="col-lg-2 pt16 pb16 o_colored_level">
+              <img src="/web/image/463-dfead8ed/ubuntu-brands.svg" class="img img-fluid mx-auto" alt="" loading="lazy" style="width: 50% !important;" data-original-title="" title="" aria-describedby="tooltip807200" data-original-id="463" data-original-src="/web/image/463-dfead8ed/ubuntu-brands.svg" data-mimetype="image/svg+xml" data-resize-width="512"/>
+            </div>
+            <div class="col-lg-2 pt16 pb16 o_colored_level" style="">
+              <img src="/web/image/446-c0174374/debian-seeklogo.com.svg" class="img img-fluid mx-auto" alt="" loading="lazy" style="width: 50% !important;" data-original-title="" title="" aria-describedby="tooltip405776" data-original-id="446" data-original-src="/web/image/446-c0174374/debian-seeklogo.com.svg" data-mimetype="image/svg+xml" data-resize-width="undefined"/>
+            </div>
+            <div class="col-lg-2 pt16 pb16 o_colored_level" style="">
+              <img src="/web/image/449-c5133a93/icons8-wordpress.svg" class="img img-fluid mx-auto" alt="" loading="lazy" style="width: 50% !important;" data-original-title="" title="" aria-describedby="tooltip329320" data-original-id="449" data-original-src="/web/image/449-c5133a93/icons8-wordpress.svg" data-mimetype="image/svg+xml" data-resize-width="512"/>
+            </div>
+            <div class="col-lg-2 pb16 o_colored_level pt32" style="">
+              <img src="/web/image/471-d4d1a489/Odoo_logo%20%281%29.svg" class="img img-fluid mx-auto" alt="" loading="lazy" style="width: 100% !important;" data-original-title="" title="" aria-describedby="tooltip329320" data-original-id="471" data-original-src="/web/image/471-d4d1a489/Odoo_logo%20%281%29.svg" data-mimetype="image/svg+xml" data-resize-width="undefined"/>
+            </div>
+            <div class="col-lg-2 o_colored_level pb0 pt0">
+              <img src="/web/image/452-38f08219/icons8-mysql-logo.svg" class="img img-fluid mx-auto" alt="" loading="lazy" style="width: 75% !important;" data-original-title="" title="" aria-describedby="tooltip980598" data-original-id="452" data-original-src="/web/image/452-38f08219/icons8-mysql-logo.svg" data-mimetype="image/svg+xml" data-resize-width="690"/>
+            </div>
+            <div class="col-lg-2 pt16 pb16 o_colored_level">
+              <img src="/web/image/458-7bb2343b/icons8-html-5.svg" class="img img-fluid mx-auto" alt="" loading="lazy" style="width: 50% !important;" data-original-title="" title="" aria-describedby="tooltip980598" data-original-id="458" data-original-src="/web/image/458-7bb2343b/icons8-html-5.svg" data-mimetype="image/svg+xml" data-resize-width="undefined"/>
+            </div>
+            <div class="col-lg-2 pt16 pb16 o_colored_level" style="">
+              <img src="/web/image/470-c908981a/icons8-nginx.svg" class="img img-fluid mx-auto" alt="" loading="lazy" style="width: 50% !important;" data-original-title="" title="" aria-describedby="tooltip329320" data-original-id="470" data-original-src="/web/image/470-c908981a/icons8-nginx.svg" data-mimetype="image/svg+xml" data-resize-width="undefined"/>
+            </div>
+            <div class="col-lg-2 pt16 pb16 o_colored_level">
+              <img src="/web/image/454-f7af0103/Git-icon-black.svg" class="img img-fluid mx-auto" alt="" loading="lazy" style="width: 50% !important;" data-original-title="" title="" aria-describedby="tooltip329320" data-original-id="454" data-original-src="/web/image/454-f7af0103/Git-icon-black.svg" data-mimetype="image/svg+xml" data-resize-width="512"/>
+            </div>
+            <div class="col-lg-2 pt16 pb16 o_colored_level">
+              <img src="/web/image/465-4744df60/ssh.png" class="img img-fluid mx-auto" alt="" loading="lazy" style="width: 50% !important;" data-original-title="" title="" aria-describedby="tooltip329320" data-resize-width="512" data-original-src="/web/image/451-52e4634c/ssh.png" data-original-id="451" data-mimetype="image/png"/>
+            </div>
+            <div class="col-lg-2 pt16 pb16 o_colored_level" style="">
+              <img src="/web/image/472-bab2b53f/ps.svg" class="img img-fluid mx-auto" alt="" loading="lazy" style="width: 50% !important;" data-original-title="" title="" aria-describedby="tooltip329320" data-original-id="472" data-original-src="/web/image/472-bab2b53f/ps.svg" data-mimetype="image/svg+xml" data-resize-width="undefined"/>
+            </div>
+            <div class="col-lg-2 pt16 pb16 o_colored_level">
+              <img src="/web/image/447-31aa2745/postgresql.svg" class="img img-fluid mx-auto" alt="" loading="lazy" style="width: 50% !important;" data-original-title="" title="" aria-describedby="tooltip740603" data-original-id="447" data-original-src="/web/image/447-31aa2745/postgresql.svg" data-mimetype="image/svg+xml" data-resize-width="385"/>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="s_title o_cc o_cc5 o_colored_level pb0 s_parallax_no_overflow_hidden pt0" data-vcss="001" data-scroll-background-ratio="0" data-snippet="s_title" data-name="Title" style="background-image: none; position: relative;" data-oe-shape-data="{&quot;shape&quot;:&quot;web_editor/Floats/12&quot;,&quot;flip&quot;:[]}">
+        <div class="o_we_shape o_web_editor_Floats_12"/>
+        <div class="s_allow_columns container">
+          <div class="s_text_highlight bg-secondary my-3 text-center w-100 o_colored_level" data-snippet="s_text_highlight" data-name="Text Highlight">
+            <div class="container">
+              <h3 class="o_default_snippet_text">Courses &amp;amp; Certificates<br/></h3>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="s_image_gallery o_cc o_cc5 o_colored_level pt4 s_image_gallery_show_indicators s_image_gallery_indicators_dots o_full_screen_height o_slideshow" data-vcss="001" data-columns="3" style="overflow: hidden; background-image: none; position: relative; height: 517px;" data-snippet="s_image_gallery" data-name="Image Gallery" data-oe-shape-data="{&quot;shape&quot;:&quot;web_editor/Floats/12&quot;,&quot;flip&quot;:[]}">
+        <div class="o_we_shape o_web_editor_Floats_12"/>
+        <div class="o_container_small">
+          <div id="slideshow_1654268419197" class="carousel slide" data-ride="carousel" data-interval="0" style="margin: 0 12px;">
+            <div class="carousel-inner" style="padding: 0;">
+              <div class="carousel-item active" style="">
+                <img class="img img-fluid d-block" src="/web/image/490-3e14a8a1/AltelaEleviansyah%20Pram-PRO%20Programming%20-certificate_page-0001.jpg" style="" alt="" data-name="Image" data-index="0"/>
+              </div>
+              <div class="carousel-item undefined" style="">
+                <img class="img img-fluid d-block " src="/web/image/489-2b9889c6/AltelaEleviansyah%20Pram-SEKJAR-TI2H-2019-certificate%20%281%29_page-0001.jpg" style="" alt="" data-name="Image" data-index="1"/>
+              </div>
+              <div class="carousel-item undefined" style="">
+                <img class="img img-fluid d-block " src="/web/image/488-23fe450e/AltelaEleviansyah%2BPramardhika-JARKOM1-TI3H-2017-Certificate_page-0001.jpg" style="" alt="" data-name="Image" data-index="2"/>
+              </div>
+              <div class="carousel-item undefined" style="">
+                <img class="img img-fluid d-block " src="/web/image/479-abdeebb0/AltelaEleviansyah%20Pram-JARKOM2-TI2E-201-certificate_page-0001.jpg" style="" alt="" data-name="Image" data-index="3"/>
+              </div>
+              <div class="carousel-item undefined" style="">
+                <img class="img img-fluid d-block " src="/web/image/487-a0cde12c/AltelaEleviansyah%2BPramardhika-NE-KOMDAT-TI4I-Certificate_page-0001.jpg" style="" alt="" data-name="Image" data-index="4"/>
+              </div>
+              <div class="carousel-item undefined" style="">
+                <img class="img img-fluid d-block " src="/web/image/486-8e889880/Sertifikat%20Prakerin_removed_page-0001.jpg" style="" alt="" data-name="Image" data-index="5"/>
+              </div>
+            </div>
+            <ul class="carousel-indicators">
+              <li class="o_indicators_left text-center d-none" aria-label="Previous" title="Previous">
+                <i class="fa fa-chevron-left"/>
+              </li>
+              <li data-target="#slideshow_1654268419197" data-slide-to="0" class="active" style="background-image: url(/web/image/490-3e14a8a1/AltelaEleviansyah%20Pram-PRO%20Programming%20-certificate_page-0001.jpg)"/>
+              <li data-target="#slideshow_1654268419197" data-slide-to="1" style="background-image: url(/web/image/489-2b9889c6/AltelaEleviansyah%20Pram-SEKJAR-TI2H-2019-certificate%20%281%29_page-0001.jpg)"/>
+              <li data-target="#slideshow_1654268419197" data-slide-to="2" style="background-image: url(/web/image/488-23fe450e/AltelaEleviansyah%2BPramardhika-JARKOM1-TI3H-2017-Certificate_page-0001.jpg)"/>
+              <li data-target="#slideshow_1654268419197" data-slide-to="3" style="background-image: url(/web/image/479-abdeebb0/AltelaEleviansyah%20Pram-JARKOM2-TI2E-201-certificate_page-0001.jpg)"/>
+              <li data-target="#slideshow_1654268419197" data-slide-to="4" style="background-image: url(/web/image/487-a0cde12c/AltelaEleviansyah%2BPramardhika-NE-KOMDAT-TI4I-Certificate_page-0001.jpg)"/>
+              <li data-target="#slideshow_1654268419197" data-slide-to="5" style="background-image: url(/web/image/486-8e889880/Sertifikat%20Prakerin_removed_page-0001.jpg)"/>
+              <li class="o_indicators_right text-center d-none" aria-label="Next" title="Next">
+                <i class="fa fa-chevron-right"/>
+              </li>
+            </ul>
+            <a class="carousel-control-prev o_we_no_overlay" href="#slideshow_1654268419197" data-slide="prev" aria-label="Previous" title="Previous">
+              <span class="fa fa-chevron-left fa-2x text-white"/>
+              <span class="sr-only">Previous</span>
+            </a>
+            <a class="carousel-control-next o_we_no_overlay" href="#slideshow_1654268419197" data-slide="next" aria-label="Next" title="Next">
+              <span class="fa fa-chevron-right fa-2x text-white"/>
+              <span class="sr-only">Next</span>
+            </a>
+          </div>
+        </div>
+      </section>
+      <section class="s_title o_cc o_cc5 o_colored_level pb0 s_parallax_no_overflow_hidden pt0" data-vcss="001" data-scroll-background-ratio="0" data-snippet="s_title" data-name="Title" style="background-image: none; position: relative;" data-oe-shape-data="{&quot;shape&quot;:&quot;web_editor/Floats/12&quot;,&quot;colors&quot;:{&quot;c1&quot;:&quot;#FFFFFF&quot;,&quot;c2&quot;:&quot;#333038&quot;,&quot;c3&quot;:&quot;#CED4DA&quot;,&quot;c5&quot;:&quot;#110d16&quot;},&quot;flip&quot;:[]}">
+        <div class="o_we_shape o_web_editor_Floats_12" style="background-image: url(&quot;/web_editor/shape/web_editor/Floats/12.svg?c1=%23FFFFFF&amp;c2=%23333038&amp;c3=%23CED4DA&amp;c5=%23110d16&quot;);"/>
+        <div class="s_allow_columns container">
+          <div class="s_text_highlight bg-secondary my-3 text-center w-100 o_colored_level" data-snippet="s_text_highlight" data-name="Text Highlight">
+            <div class="container">
+              <h3>Timeline</h3>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="s_timeline pt24 pb48 o_colored_level o_cc o_cc5 o_half_screen_height" data-snippet="s_timeline" data-name="Timeline" style="background-image: none; position: relative;" data-oe-shape-data="{&quot;shape&quot;:&quot;web_editor/Floats/12&quot;,&quot;colors&quot;:{&quot;c1&quot;:&quot;#E5E5E5&quot;,&quot;c2&quot;:&quot;#333038&quot;,&quot;c3&quot;:&quot;#CED4DA&quot;,&quot;c5&quot;:&quot;#110d16&quot;},&quot;flip&quot;:[]}">
+        <div class="o_we_shape o_web_editor_Floats_12" style="background-image: url(&quot;/web_editor/shape/web_editor/Floats/12.svg?c1=%23E5E5E5&amp;c2=%23333038&amp;c3=%23CED4DA&amp;c5=%23110d16&quot;);"/>
+        <div class="s_timeline_line container" style="border-color: rgb(255, 255, 255) !important;">
+          <div class="s_timeline_row d-block d-md-flex flex-row" data-name="Row">
+            <div class="s_timeline_date">
+              <span class="bg-white">
+                <b>2022</b>
+              </span>
+              <br/>
+            </div>
+            <div class="s_timeline_content d-flex">
+              <div class="s_timeline_card s_card card bg-white w-100" data-name="Card" data-snippet="s_card">
+                <div class="card-body">
+                  <p class="card-title">
+                    <span style="font-weight: bolder;">Still Working At</span>
+                  </p>
+                  <p class="card-title">PT. Central Jayatama Abadi<br/><span style="font-size: 12px;">As server administrator</span><br/></p>
+                </div>
+              </div>
+              <i class="fa fa-1x bg-secondary rounded-circle s_timeline_icon fa-briefcase fa-1x bg-secondary rounded-circle s_timeline_icon" data-original-title="" title="" aria-describedby="tooltip793625"/>
+            </div>
+            <div class="s_timeline_content"/>
+          </div>
+          <div class="s_timeline_row d-block d-md-flex flex-row-reverse" data-name="Row">
+            <div class="s_timeline_date">
+              <span class="bg-white">
+                <b>2020</b>
+              </span>
+              <br/>
+            </div>
+            <div class="s_timeline_content d-flex">
+              <div class="s_timeline_card s_card card bg-white w-100" data-name="Card" data-snippet="s_card">
+                <div class="card-body">
+                  <p class="card-title">
+                    <span style="font-weight: bolder;">Graduated From</span>
+                  </p>
+                  <p class="card-title">Mulia University Balikpapan<br/><span style="font-size: 12px;">Bachelor Degree in Computer Science</span><br/></p>
+                </div>
+              </div>
+              <i class="fa bg-secondary s_timeline_icon rounded-circle fa-1x fa-mortar-board bg-secondary s_timeline_icon rounded-circle fa-1x" data-original-title="" title="" aria-describedby="tooltip793625"/>
+            </div>
+            <div class="s_timeline_content"/>
+          </div>
+          <div class="s_timeline_row d-block d-md-flex flex-row" data-name="Row">
+            <div class="s_timeline_date">
+              <span class="bg-white">
+                <b>2016</b>
+              </span>
+            </div>
+            <div class="s_timeline_content d-flex">
+              <div class="s_timeline_card s_card card bg-white w-100" data-name="Card" data-snippet="s_card">
+                <div class="card-body">
+                  <p class="card-text">
+                    <span style=" font-weight: bolder">Working</span>
+                  </p>
+                  <p class="card-text">
+                    <span style=" color: rgb(33, 37, 41); background-color: rgba(255, 255, 255, 0.9)">PT. Central Jayatama Abadi</span>
+                    <br/>
+                    <span style=" color: rgb(33, 37, 41); background-color: rgba(255, 255, 255, 0.9); font-size: 12px">As IT Support Specialist</span>
+                    <br/>
+                  </p>
+                </div>
+              </div>
+              <i class="fa fa-1x bg-secondary rounded-circle s_timeline_icon fa-briefcase" data-original-title="" title="" aria-describedby="tooltip938362"/>
+            </div>
+            <div class="s_timeline_content d-flex">
+              <i class="fa fa-1x bg-secondary rounded-circle s_timeline_icon fa-mortar-board"/>
+              <div class="s_timeline_card s_card card bg-white w-100" data-name="Card" data-snippet="s_card">
+                <div class="card-body">
+                  <p class="card-text">
+                    <span style=" font-weight: bolder">Graduated From</span>
+                  </p>
+                  <p class="card-text">Vocational High School 3 Balikpapan<br/><span style=" color: rgb(33, 37, 41); font-size: 12px; background-color: rgba(255, 255, 255, 0.9)">Computer &amp;amp; Network Engineering</span><br/></p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="s_timeline_row d-block d-md-flex flex-row" data-name="Row">
+            <div class="s_timeline_date">
+              <span class="bg-white">
+                <b class="o_default_snippet_text">2015</b>
+              </span>
+            </div>
+            <div class="s_timeline_content d-flex">
+              <div class="s_timeline_card s_card card bg-white w-100" data-name="Card" data-snippet="s_card">
+                <div class="card-body">
+                  <p class="card-text">
+                    <span style=" font-weight: bolder">Internship</span>
+                  </p>
+                  <p class="card-text">
+                    <span style=" color: rgb(33, 37, 41); background-color: rgba(255, 255, 255, 0.9)">CV. Global Computer</span>
+                    <br/>
+                    <span style=" color: rgb(33, 37, 41); background-color: rgba(255, 255, 255, 0.9); font-size: 12px">As Computer Technician</span>
+                    <br/>
+                  </p>
+                </div>
+              </div>
+              <i class="fa fa-1x bg-secondary rounded-circle s_timeline_icon fa-flask" data-original-title="" title="" aria-describedby="tooltip680324"/>
+            </div>
+            <div class="s_timeline_content"/>
+          </div>
+        </div>
+      </section>
+    </div>
+  </t>
+</t>
