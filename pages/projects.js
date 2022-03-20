@@ -37,7 +37,7 @@ export default function Projects() {
       <h2 class="text-2xl font-medium leading-tight mt-0 text-gray-900 mt-20">Odoo ERP Modules</h2>
         <div class="grid gap-2 grid-cols-3">
           <div class="relative group">
-            <a href="https://apps.odoo.com/apps/modules/14.0/adjustment_rename/" target="_blank">
+            <a href="https://apps.odoo.com/apps/modules/14.0/adjustments_rename/" target="_blank">
               <img src="/rename_adj.jpg"></img>
               <div class="opacity-0 group-hover:opacity-70 duration-300 absolute left-0 bottom-0 right-0 z-10 flex justify-center items-end bg-black text-gray-200 text-sm">Allows user to rename in-progress Inventory Adjustment </div>
             </a>
@@ -45,22 +45,22 @@ export default function Projects() {
 
 
           <div class="relative group">
-            <a href="https://apps.odoo.com/apps/modules/12.0/base_replace/" target="_blank">
+            <a href="https://apps.odoo.com/apps/modules/14.0/base_replace/" target="_blank">
               <img src="/banner-base.jpg"></img>
               <div class="opacity-0 group-hover:opacity-70 duration-300 absolute left-0 bottom-0 right-0 z-10 flex justify-center items-end bg-black text-gray-200 text-sm">The base module of Customer and Vendor replacement</div>
             </a>
           </div>
 
           <div class="relative group">
-            <a href="https://apps.odoo.com/apps/modules/12.0/replace_cust_so/" target="_blank">
+            <a href="https://apps.odoo.com/apps/modules/14.0/replace_cust_so/" target="_blank">
               <img src="/replace_cust.jpg" class="w-50"></img>
               <div class="opacity-0 group-hover:opacity-70 duration-300 absolute left-0 bottom-0 right-0 z-10 flex text-center items-end bg-black text-gray-200 text-sm">Allows user to change Customer in validated Sales Order</div>
             </a>
           </div>
 
           <div class="relative group">
-            <a href="https://apps.odoo.com/apps/modules/12.0/replace_cust_so/" target="_blank">
-              <img src="/replace_cust.jpg" class="w-50"></img>
+            <a href="https://apps.odoo.com/apps/modules/14.0/replace_vendor_po/" target="_blank">
+              <img src="/replace_vendor.jpg" class="w-50"></img>
               <div class="opacity-0 group-hover:opacity-70 duration-300 absolute left-0 bottom-0 right-0 z-10 flex text-center items-end bg-black text-gray-200 text-sm">Allows user to change Customer in validated Sales Order</div>
             </a>
           </div>
