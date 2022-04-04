@@ -7,7 +7,7 @@ export default function Home() {
     <div className="space-y-14 lg:space-y-24">
       <Head>
         <title>Altela Eleviansyah Pramardhika</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/fav.png" />
       </Head>
 
 

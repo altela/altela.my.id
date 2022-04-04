@@ -34,6 +34,12 @@ import Image from 'next/image'
 export default function Projects() {
   return (
     <div className="container mx-auto lg:max-w-4xl px-5">
+
+    <Head>
+      <title>Projects</title>
+      <link rel="icon" href="/fav.png" />
+    </Head>
+
       <h2 class="text-2xl font-medium leading-tight mt-0 text-gray-900 mt-20">Odoo ERP Modules</h2>
         <div class="grid gap-2 grid-cols-3">
 

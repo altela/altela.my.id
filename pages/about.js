@@ -8,7 +8,14 @@ import Image from 'next/image'
 
 export default function About() {
   return (
+
     <div className="container mx-auto lg:max-w-4xl px-5">
+
+    <Head>
+      <title>About</title>
+      <link rel="icon" href="/fav.png" />
+    </Head>
+
       <h2 class="text-3xl font-medium leading-tight mt-0 mb-2 text-gray-900 mt-20">Hi, let's get to know each other!</h2>
         <p align="justify">My name is Altela Eleviansyah Pramardhika. Most people call me Altela.. or... Aal.<br />
         I live in Balikpapan City, East Borneo, Indonesia.<br /><br />

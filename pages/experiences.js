@@ -33,7 +33,14 @@ import Image from 'next/image'
 
 export default function Projects() {
   return (
+    
     <div className="container mx-auto lg:max-w-4xl px-5">
+
+    <Head>
+      <title>Experiences</title>
+      <link rel="icon" href="/fav.png" />
+    </Head>
+
       <h2 class="text-xl font-medium leading-tight mt-0 mb-2 text-gray-900 mt-20 mb-5">Google Cloud - Juara GCP 2022</h2>
         <div class="grid gap-2 grid-cols-3">
           <div>

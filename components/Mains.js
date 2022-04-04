@@ -2,6 +2,7 @@ import React from "react"
 import Typical from 'react-typical'
 
 
+
 const Home = () => {
 return(
     <div className="container px-5 mx-auto " >
