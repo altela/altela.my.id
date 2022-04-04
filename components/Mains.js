@@ -24,12 +24,10 @@ return(
             <strong className="mb-5 text-2xl text-gray-800 font-mono">
                 <Typical
                     steps={[
-                    'Server Administrator.',
-                    1,
-                    'Odoo Developer.',
-                    1,
+                    'IT Support. Server Administrator. Odoo Developer.',
+                    500,
                     'A Backend Developer. Based in Balikpapan, Indonesia.',
-                    50,
+                    500,
                     ]}
                     wrapper="p"
                     loop={1}
