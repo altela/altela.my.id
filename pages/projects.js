@@ -87,15 +87,63 @@ export default function Projects() {
 
         </div>
 
+        <h2 class="text-2xl font-medium leading-tight mt-0 mb-5 text-gray-900 mt-10">Open-source Contribution</h2>
+          <div class="grid gap-2 grid-cols-3">
+            <div class="relative group">
+              <a href ="https://github.com/altela/sublime-pine-autocomplete">
+                <img src="/pine-highlighter.jpg" class="w-50"></img>
+                <div class="opacity-0 group-hover:opacity-70 duration-300 absolute left-0 bottom-0 right-0 z-10 flex text-center items-end bg-black text-gray-200 text-sm">Pine Script syntax highlighter for Sublime editor, used in TradingView</div>
+              </a>
+            </div>
+
+            <div class="relative group">
+            <a href="https://github.com/odoo/odoo" target="_blank">
+              <img src="/odoo-trans.jpg" class="w-50"></img>
+              <div class="opacity-0 group-hover:opacity-70 duration-300 absolute left-0 bottom-0 right-0 z-10 flex text-center items-end bg-black text-gray-200 text-sm">Plot 10 Moving Averages lines that calculate the average price of certain times</div>
+            </a>
+            </div>
+
+            <div class="relative group">
+            <a href="https://github.com/nukeop/nuclear#community-translations/" target="_blank">
+              <img src="/nuclear.jpg" class="w-50"></img>
+              <div class="opacity-0 group-hover:opacity-70 duration-300 absolute left-0 bottom-0 right-0 z-10 flex text-center items-end bg-black text-gray-200 text-sm">Open-source music player that provide songs from all over the internet</div>
+            </a>
+
+
+
+          </div>
+          </div>
+
+          <h2 class="text-2xl font-medium leading-tight mt-0 mb-5 text-gray-900 mt-10">TradingView Scripts</h2>
+          <div class="grid gap-2 grid-cols-3">
+
+            <div class="relative group">
+            <a href="https://github.com/altela/sublime-pine-autocomplete/" target="_blank">
+              <img src="/estimate.jpg" class="w-50"></img>
+              <div class="opacity-0 group-hover:opacity-70 duration-300 absolute left-0 bottom-0 right-0 z-10 flex text-center items-end bg-black text-gray-200 text-sm">Plot estimate and surprise earning as indicator in TradingView</div>
+            </a>
+          </div>
+
+          <div class="relative group">
+            <a href="https://github.com/altela/TradingView-PineScript/blob/main/10%20Moving%20Averages" target="_blank">
+              <img src="/10-MA.jpg" class="w-50"></img>
+              <div class="opacity-0 group-hover:opacity-70 duration-300 absolute left-0 bottom-0 right-0 z-10 flex text-center items-end bg-black text-gray-200 text-sm">Plot 10 Moving Averages lines that calculate the average price of certain times</div>
+            </a>
+          </div>
+          </div>
+
         <h2 class="text-2xl font-medium leading-tight mt-0 mb-5 text-gray-900 mt-10">Code Editor</h2>
           <div class="grid gap-2 grid-cols-3">
             <div class="relative group">
               <a href ="https://github.com/altela/sublime-pine-autocomplete">
-                <img src="/sublime.png" class="w-20"></img>
-                <div class="opacity-0 group-hover:opacity-70 duration-300 absolute left-0 bottom-0 right-0 z-10 bg-black text-gray-200 text-sm">Pinescript Autocomplete</div>
+                <img src="/pinescript_auto.jpg" class="w-50"></img>
+                <div class="opacity-0 group-hover:opacity-70 duration-300 absolute left-0 bottom-0 right-0 z-10 flex text-center items-end bg-black text-gray-200 text-sm">Pine Script Autocomplete for Sublime editor, used in TradingView</div>
               </a>
             </div>
           </div>
+        
+
+          
 
     </div>
 
