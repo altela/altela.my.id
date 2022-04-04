@@ -38,7 +38,7 @@ const Footer = () => {
                             target="_blank"
                             rel="noreferrer"
                         >
-                            Blog
+                            Technical Blog
                         </a>
                     </div>
                 </div>
