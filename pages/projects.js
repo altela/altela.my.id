@@ -99,7 +99,7 @@ export default function Projects() {
             <div class="relative group">
             <a href="https://github.com/odoo/odoo" target="_blank">
               <img src="/odoo-trans.jpg" class="w-50"></img>
-              <div class="opacity-0 group-hover:opacity-70 duration-300 absolute left-0 bottom-0 right-0 z-10 flex text-center items-end bg-black text-gray-200 text-sm">Plot 10 Moving Averages lines that calculate the average price of certain times</div>
+              <div class="opacity-0 group-hover:opacity-70 duration-300 absolute left-0 bottom-0 right-0 z-10 flex text-center items-end bg-black text-gray-200 text-sm">Contributing Bahasa Indonesia to Odoo Version 12</div>
             </a>
             </div>
 
