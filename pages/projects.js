@@ -90,7 +90,7 @@ export default function Projects() {
         <h2 class="text-2xl font-medium leading-tight mt-0 mb-5 text-gray-900 mt-10">Open-source Contribution</h2>
           <div class="grid gap-2 grid-cols-3">
             <div class="relative group">
-              <a href ="https://github.com/altela/sublime-pine-autocomplete" target="_blank">
+              <a href ="https://github.com/gerardroche/sublime-pine" target="_blank">
                 <img src="/pine-highlighter.jpg" class="w-50"></img>
                 <div class="opacity-0 group-hover:opacity-70 duration-300 absolute left-0 bottom-0 right-0 z-10 flex text-center items-end bg-black text-gray-200 text-sm">Pine Script syntax highlighter for Sublime editor, used in TradingView</div>
               </a>
