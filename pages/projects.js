@@ -118,7 +118,7 @@ export default function Projects() {
           <div class="grid gap-2 grid-cols-3">
 
             <div class="relative group">
-            <a href="https://github.com/altela/sublime-pine-autocomplete/" target="_blank">
+            <a href="https://www.tradingview.com/script/LVfJ9vtY-Estimate-Earnings-Surprise-Earnings/" target="_blank">
               <img src="/estimate.jpg" class="w-50"></img>
               <div class="opacity-0 group-hover:opacity-70 duration-300 absolute left-0 bottom-0 right-0 z-10 flex text-center items-end bg-black text-gray-200 text-sm">Plot estimate and surprise earning as indicator in TradingView</div>
             </a>
