@@ -1,0 +1,296 @@
+<t t-name="website.projects">
+  <t t-call="website.layout">
+    <div id="wrap" class="oe_structure oe_empty">
+      <section class="s_title o_cc o_cc5 o_colored_level pt16 pb8 s_parallax_no_overflow_hidden" data-vcss="001" data-scroll-background-ratio="0" data-snippet="s_title" data-name="Title" style="background-image: none; position: relative;" data-oe-shape-data="{&quot;shape&quot;:&quot;web_editor/Floats/12&quot;,&quot;flip&quot;:[]}">
+        <div class="o_we_shape o_web_editor_Floats_12"/>
+        <div class="s_allow_columns container">
+          <div class="s_text_highlight bg-secondary my-3 text-center w-100 o_colored_level" data-snippet="s_text_highlight" data-name="Text Highlight">
+            <div class="container">
+              <h3>Odoo ERP Modules</h3>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="s_three_columns o_colored_level o_cc o_cc5 pb0 pt0" data-vcss="001" data-snippet="s_three_columns" data-name="Columns" style="background-image: none; position: relative;" data-original-title="" title="" aria-describedby="tooltip293901" data-oe-shape-data="{&quot;shape&quot;:&quot;web_editor/Floats/12&quot;,&quot;colors&quot;:{&quot;c1&quot;:&quot;#6C757D&quot;,&quot;c2&quot;:&quot;#333038&quot;,&quot;c3&quot;:&quot;#e5e5e5&quot;,&quot;c5&quot;:&quot;#110d16&quot;},&quot;flip&quot;:[]}">
+        <div class="o_we_shape o_web_editor_Floats_12" style="background-image: url(&quot;/web_editor/shape/web_editor/Floats/12.svg?c1=%236C757D&amp;c2=%23333038&amp;c3=%23e5e5e5&amp;c5=%23110d16&quot;);"/>
+        <div class="container">
+          <div class="row d-flex align-items-stretch" data-original-title="" title="" aria-describedby="tooltip441213">
+            <div class="s_col_no_bgcolor pt16 pb16 col-lg-3">
+              <div class="card bg-white h-100 shadow" style="border-width: 0px !important">
+                <img class="card-img-top" src="/web/image/336-92b5a9cd/banner%20INVEN%203.jpg" alt="" loading="lazy" style="" data-original-title="" title="" aria-describedby="tooltip201642" data-original-id="304" data-original-src="/web/image/304-8d27a46d/banner%20INVEN%203.jpg" data-mimetype="image/jpeg" data-resize-width="555"/>
+                <div class="card-body" data-original-title="" title="" aria-describedby="tooltip666519">
+                  <h6 class="card-title" style="text-align: center;">
+                    <span style="font-weight: bolder;">Create Edit History of Inventory</span>
+                    <br/>
+                  </h6>
+                  <p class="card-text" style="text-align: center;">
+                    <span style="color: rgb(33, 37, 41); font-size: 12px; background-color: rgba(255, 255, 255, 0.9)">Create history of changed record inside inventory's master product.</span>
+                    <br/>
+                  </p>
+                  <p data-original-title="" title="" aria-describedby="tooltip494225" style="text-align: center;">
+                    <a href="/project/track-fields-inventory" class="btn btn-fill-primary" data-original-title="" title="">Details</a>
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="s_col_no_bgcolor pt16 pb16 col-lg-3">
+              <div class="card bg-white h-100 shadow" style="border-width: 0px !important">
+                <img class="card-img-top" src="/web/image/338-704aeb10/banner%20INVEN.jpg" alt="" loading="lazy" style="" data-original-title="" title="" aria-describedby="tooltip112283" data-original-id="305" data-original-src="/web/image/305-64b69535/banner%20INVEN.jpg" data-mimetype="image/jpeg" data-resize-width="555"/>
+                <div class="card-body" data-original-title="" title="" aria-describedby="tooltip666519">
+                  <h6 class="card-title" style="text-align: center;" data-original-title="" title="" aria-describedby="tooltip414025">
+                    <span style="font-weight: bolder;">Change&amp;nbsp;<br/>Effective Date</span>
+                  </h6>
+                  <p class="card-text" style="text-align: center;">
+                    <span style="color: rgb(33, 37, 41); font-size: 12px; background-color: rgba(255, 255, 255, 0.9)">Allows user to set effective date of a delivery or inventory transfers.</span>
+                  </p>
+                  <p data-original-title="" title="" aria-describedby="tooltip494225" style="text-align: center;">
+                    <a href="/project/change-effective-date" class="btn btn-fill-primary" data-original-title="" title="">Details</a>
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="s_col_no_bgcolor pt16 pb16 col-lg-3">
+              <div class="card bg-white h-100 shadow" style="border-width: 0px !important">
+                <img class="card-img-top" src="/web/image/339-ad4ed5f9/banner%20PURCHASE.jpg" alt="" loading="lazy" style="" data-original-title="" title="" aria-describedby="tooltip428434" data-original-id="306" data-original-src="/web/image/306-36a0308f/banner%20PURCHASE.jpg" data-mimetype="image/jpeg" data-resize-width="555"/>
+                <div class="card-body" data-original-title="" title="" aria-describedby="tooltip666519">
+                  <h6 class="card-title" style="text-align: center;">
+                    <span style="font-weight: bolder;">Replace Vendor in Purchase Order</span>
+                    <br/>
+                  </h6>
+                  <p class="card-text" style="text-align: center;"><span style="color: rgb(33, 37, 41); font-size: 12px; background-color: rgba(255, 255, 255, 0.9)">Allows user to change Vendor in validated Purchase&amp;nbsp;Order.</span>&amp;nbsp;<br/></p>
+                  <p data-original-title="" title="" aria-describedby="tooltip494225" style="text-align: center;">
+                    <a href="/project/replace-vendor-in-purchase-order" class="btn btn-fill-primary" data-original-title="" title="">Details</a>
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="s_col_no_bgcolor pt16 pb16 col-lg-3">
+              <div class="card bg-white h-100 shadow" style="border-width: 0px !important">
+                <img class="card-img-top" src="/web/image/337-bb09492b/banner%20INVEN%202.jpg" alt="" loading="lazy" style="" data-original-title="" title="" aria-describedby="tooltip700459" data-original-id="307" data-original-src="/web/image/307-79737f21/banner%20INVEN%202.jpg" data-mimetype="image/jpeg" data-resize-width="555"/>
+                <div class="card-body" data-original-title="" title="" aria-describedby="tooltip666519">
+                  <h6 class="card-title" style="text-align: center;">
+                    <span style="font-weight: bolder;">Rename Inventory Adjustment</span>
+                  </h6>
+                  <p class="card-text" style="text-align: center;"><span style="color: rgb(33, 37, 41); font-size: 12px; background-color: rgba(255, 255, 255, 0.9)">Allows user to rename in progress inventory adjustment</span>&amp;nbsp;<br/></p>
+                  <p data-original-title="" title="" aria-describedby="tooltip494225" style="text-align: center;">
+                    <a href="/project/rename-inventory-adjustment" class="btn btn-fill-primary" data-original-title="" title="">Details</a>
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="s_three_columns o_colored_level o_cc o_cc5 pt0 pb0" data-vcss="001" data-snippet="s_three_columns" data-name="Columns" style="background-image: none; position: relative;" data-original-title="" title="" aria-describedby="tooltip293901" data-oe-shape-data="{&quot;shape&quot;:&quot;web_editor/Floats/12&quot;,&quot;flip&quot;:[]}">
+        <div class="o_we_shape o_web_editor_Floats_12"/>
+        <div class="container">
+          <div class="row d-flex align-items-stretch" data-original-title="" title="" aria-describedby="tooltip693130">
+            <div class="s_col_no_bgcolor pt16 pb16 col-lg-3">
+              <div class="card bg-white h-100 shadow" style="border-width: 0px !important">
+                <img class="card-img-top" src="/web/image/335-ff58ccef/banner%20sales.jpg" alt="" loading="lazy" style="" data-original-title="" title="" aria-describedby="tooltip201642" data-original-id="312" data-original-src="/web/image/312-2cfe30f5/banner%20sales.jpg" data-mimetype="image/jpeg" data-resize-width="555"/>
+                <div class="card-body" data-original-title="" title="" aria-describedby="tooltip666519">
+                  <h6 class="card-title" style="text-align: center;">
+                    <span style="font-weight: bolder;">Replace Customer in Sales Order</span>
+                    <br/>
+                  </h6>
+                  <p class="card-text" style="text-align: center;">
+                    <span style="color: rgb(33, 37, 41); font-size: 12px; background-color: rgba(255, 255, 255, 0.9)"><span style="color: rgb(33, 37, 41); font-size: 12px; background-color: rgba(255, 255, 255, 0.9)">Allows user to change Customer in validated Sales Order</span>.</span>
+                    <br/>
+                  </p>
+                  <p data-original-title="" title="" aria-describedby="tooltip494225" style="text-align: center;">
+                    <a href="/project/replace-customer-in-sales-order" class="btn btn-fill-primary" data-original-title="" title="">Details</a>
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="s_title o_cc o_cc5 o_colored_level pt16 pb8 s_parallax_no_overflow_hidden" data-vcss="001" data-scroll-background-ratio="0" data-snippet="s_title" data-name="Title" style="background-image: none; position: relative;" data-oe-shape-data="{&quot;shape&quot;:&quot;web_editor/Floats/12&quot;,&quot;flip&quot;:[]}">
+        <div class="o_we_shape o_web_editor_Floats_12"/>
+        <div class="s_allow_columns container">
+          <div class="s_text_highlight bg-secondary my-3 text-center w-100 o_colored_level" data-snippet="s_text_highlight" data-name="Text Highlight">
+            <div class="container">
+              <h3>Non Odoo ERP Projects</h3>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="s_three_columns o_colored_level o_cc o_cc5 pt0 pb0" data-vcss="001" data-snippet="s_three_columns" data-name="Columns" style="background-image: none; position: relative;" data-original-title="" title="" aria-describedby="tooltip293901" data-oe-shape-data="{&quot;shape&quot;:&quot;web_editor/Floats/12&quot;,&quot;flip&quot;:[]}">
+        <div class="o_we_shape o_web_editor_Floats_12"/>
+        <div class="container">
+          <div class="row d-flex align-items-stretch" data-original-title="" title="" aria-describedby="tooltip420621">
+            <div class="s_col_no_bgcolor pt16 pb16 col-lg-3">
+              <div class="card bg-white h-100 shadow" style="border-width: 0px !important;">
+                <img class="card-img-top" src="/web/image/342-585e0388/Tradingview.jpg" alt="" loading="lazy" style="" data-original-title="" title="" aria-describedby="tooltip201642" data-original-id="318" data-original-src="/web/image/318-6f5cf5cd/Tradingview.jpg" data-mimetype="image/jpeg" data-resize-width="555"/>
+                <div class="card-body" data-original-title="" title="" aria-describedby="tooltip666519">
+                  <h6 class="card-title" style="text-align: center;">
+                    <span style="font-weight: bolder;">Estimate, Earning, Surprise Earning</span>
+                    <br/>
+                  </h6>
+                  <p class="card-text" style="text-align: center;">
+                    <span style="color: rgb(33, 37, 41); font-size: 12px; background-color: rgba(255, 255, 255, 0.9)"><span style="color: rgb(33, 37, 41); font-size: 12px; background-color: rgba(255, 255, 255, 0.9)">A TradingView script that plot a company's annual earnings</span>.</span>
+                    <br/>
+                  </p>
+                  <p data-original-title="" title="" aria-describedby="tooltip494225" style="text-align: center;">
+                    <a href="https://www.tradingview.com/script/LVfJ9vtY-Estimate-Earnings-Surprise-Earnings/" class="btn btn-fill-primary" data-original-title="" title="">Details</a>
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="s_col_no_bgcolor pt16 pb16 col-lg-3">
+              <div class="card bg-white h-100 shadow" style="border-width: 0px !important">
+                <img class="card-img-top" src="/web/image/341-a70d07fd/planetarium.jpg" alt="" loading="lazy" style="" data-original-title="" title="" aria-describedby="tooltip201642" data-original-id="319" data-original-src="/web/image/319-09602c8b/planetarium.jpg" data-mimetype="image/jpeg" data-resize-width="555"/>
+                <div class="card-body" data-original-title="" title="" aria-describedby="tooltip666519">
+                  <h6 class="card-title" style="text-align: center;">
+                    <span style="font-weight: bolder;">PlanetARium</span>
+                    <br/>
+                  </h6>
+                  <p class="card-text" style="text-align: center;">
+                    <span style="color: rgb(33, 37, 41); font-size: 12px; background-color: rgba(255, 255, 255, 0.9)"><span style="color: rgb(33, 37, 41); font-size: 12px; background-color: rgba(255, 255, 255, 0.9)">An iOS&amp;nbsp;ARKit augmented reality app that display planets in Milky Way Galaxy</span>.</span>
+                    <br/>
+                  </p>
+                  <p data-original-title="" title="" aria-describedby="tooltip494225" style="text-align: center;">
+                    <a href="https://github.com/altela/planetarium#readme" class="btn btn-fill-primary" data-original-title="" title="">Details</a>
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="s_col_no_bgcolor pt16 pb16 col-lg-3">
+              <div class="card bg-white h-100 shadow" style="border-width: 0px !important;">
+                <img class="card-img-top" src="/web/image/351-b6416e08/sublime%20pine%20autocomplete.jpg" alt="" loading="lazy" style="" data-original-title="" title="" aria-describedby="tooltip201642" data-original-id="347" data-original-src="/web/image/347-9d4d35a3/sublime%20pine%20autocomplete.jpg" data-mimetype="image/jpeg" data-resize-width="555"/>
+                <div class="card-body" data-original-title="" title="" aria-describedby="tooltip666519">
+                  <h6 class="card-title" style="text-align: center;">
+                    <span style="font-weight: bolder;">Sublime Pine Autocomplete</span>
+                    <br/>
+                  </h6>
+                  <p class="card-text" style="text-align: center;">
+                    <span style="color: rgb(33, 37, 41); font-size: 12px; background-color: rgba(255, 255, 255, 0.9)">Pinescript language snippets and autocomplete for Sublime IDE.</span>
+                    <br/>
+                  </p>
+                  <p data-original-title="" title="" aria-describedby="tooltip494225" style="text-align: center;">
+                    <a href="#https://github.com/altela/sublime-pine-autocomplete#readme" class="btn btn-fill-primary" data-original-title="" title="">Details</a>
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="s_title o_cc o_cc5 o_colored_level pt16 pb8 s_parallax_no_overflow_hidden" data-vcss="001" data-scroll-background-ratio="0" data-snippet="s_title" data-name="Title" style="background-image: none; position: relative;" data-oe-shape-data="{&quot;shape&quot;:&quot;web_editor/Floats/12&quot;,&quot;flip&quot;:[]}">
+        <div class="o_we_shape o_web_editor_Floats_12"/>
+        <div class="s_allow_columns container">
+          <div class="s_text_highlight bg-secondary my-3 text-center w-100 o_colored_level" data-snippet="s_text_highlight" data-name="Text Highlight">
+            <div class="container">
+              <h3>Open Source Activity</h3>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="s_three_columns o_colored_level o_cc o_cc5 pt0 pb0" data-vcss="001" data-snippet="s_three_columns" data-name="Columns" style="background-image: none; position: relative;" data-original-title="" title="" aria-describedby="tooltip293901" data-oe-shape-data="{&quot;shape&quot;:&quot;web_editor/Floats/12&quot;,&quot;flip&quot;:[]}">
+        <div class="o_we_shape o_web_editor_Floats_12"/>
+        <div class="container">
+          <div class="row d-flex align-items-stretch" data-original-title="" title="" aria-describedby="tooltip420621">
+            <div class="s_col_no_bgcolor pt16 pb16 col-lg-3">
+              <div class="card bg-white h-100 shadow" style="border-width: 0px !important;">
+                <img class="card-img-top" src="/web/image/352-8ef1bc6c/itm.jpg" alt="" loading="lazy" style="" data-original-title="" title="" aria-describedby="tooltip201642" data-original-id="348" data-original-src="/web/image/348-09362692/itm.jpg" data-mimetype="image/jpeg" data-resize-width="555"/>
+                <div class="card-body" data-original-title="" title="" aria-describedby="tooltip666519">
+                  <h6 class="card-title" style="text-align: center;">
+                    <span style="font-weight: bolder;">Odoo IT Management</span>
+                    <br/>
+                    <span style=" font-size: 10px">By Trevi Software</span>
+                  </h6>
+                  <p style="text-align: center;">
+                    <span style=" font-size: 12px">
+                      <span style="font-size: 12px;">Record information about IT Infrastructure (Equipment, networks and credentials).</span>
+                    </span>
+                    <br/>
+                    <br/>
+                    <a href="https://github.com/trevi-software/trevi-misc/tree/14.0/itm#readme" class="btn btn-fill-primary" data-original-title="" title="">Details</a>
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="s_col_no_bgcolor pt16 pb16 col-lg-3">
+              <div class="card bg-white h-100 shadow" style="border-width: 0px !important;">
+                <img class="card-img-top" src="/web/image/353-b6416e08/sublime%20pine%20autocomplete.jpg" alt="" loading="lazy" style="" data-original-title="" title="" aria-describedby="tooltip201642" data-original-id="347" data-original-src="/web/image/347-9d4d35a3/sublime%20pine%20autocomplete.jpg" data-mimetype="image/jpeg" data-resize-width="555"/>
+                <div class="card-body" data-original-title="" title="" aria-describedby="tooltip666519">
+                  <h6 class="card-title" style="text-align: center;">
+                    <span style="font-weight: bolder;">Sublime Pine</span>
+                    <br/>
+                    <span style=" font-size: 10px">By Gerrard Roche</span>
+                  </h6>
+                  <p style="text-align: center;">
+                    <span style=" font-size: 12px">
+                      <span style="color: rgb(33, 37, 41); font-size: 12px; background-color: rgba(255, 255, 255, 0.9)">Pinescript language syntax highlighter for Sublime IDE.</span>
+                    </span>
+                  </p>
+                  <p style="text-align: center;">
+                    <br/>
+                  </p>
+                  <p data-original-title="" title="" aria-describedby="tooltip494225" style="text-align: center;">
+                    <a href="https://github.com/gerardroche/sublime-pine#readme" class="btn btn-fill-primary" data-original-title="" title="">Details</a>
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="s_col_no_bgcolor pt16 pb16 col-lg-3">
+              <div class="card bg-white h-100 shadow" style="border-width: 0px !important;">
+                <img class="card-img-top" src="/web/image/354-897b72c9/nuclear..jpg" alt="" loading="lazy" style="" data-original-title="" title="" aria-describedby="tooltip201642" data-original-id="349" data-original-src="/web/image/349-2698b55f/nuclear..jpg" data-mimetype="image/jpeg" data-resize-width="555"/>
+                <div class="card-body" data-original-title="" title="" aria-describedby="tooltip666519">
+                  <h6 class="card-title" style="text-align: center;">
+                    <span style="font-weight: bolder;">Nuclear</span>
+                    <br/>
+                    <span style=" font-size: 10px">By Nukeop</span>
+                  </h6>
+                  <p style="text-align: center;">
+                    <span style=" font-size: 12px">
+                      <span style="color: rgb(33, 37, 41); font-size: 12px; background-color: rgba(255, 255, 255, 0.9)">
+                        <span style="color: rgb(33, 37, 41); font-size: 12px; background-color: rgba(255, 255, 255, 0.9)">Free, open source music player.</span>
+                        <br/>
+                        <br/>
+                      </span>
+                    </span>
+                  </p>
+                  <p style="text-align: center;">
+                    <br/>
+                  </p>
+                  <p data-original-title="" title="" aria-describedby="tooltip494225" style="text-align: center;">
+                    <a href="https://github.com/nukeop/nuclear#readme" class="btn btn-fill-primary" data-original-title="" title="">Details</a>
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="s_col_no_bgcolor pt16 pb16 col-lg-3">
+              <div class="card bg-white h-100 shadow" style="border-width: 0px !important;">
+                <img class="card-img-top" src="/web/image/355-1d31bc7d/odoo%20doc.jpg" alt="" loading="lazy" style="" data-original-title="" title="" aria-describedby="tooltip201642" data-original-id="350" data-original-src="/web/image/350-df794e11/odoo%20doc.jpg" data-mimetype="image/jpeg" data-resize-width="555"/>
+                <div class="card-body" data-original-title="" title="" aria-describedby="tooltip666519">
+                  <h6 class="card-title" style="text-align: center;">
+                    <span style="font-weight: bolder;">Odoo Official Doc</span>
+                    <br/>
+                    <span style=" font-size: 10px">By Odoo SA</span>
+                  </h6>
+                  <p style="text-align: center;">
+                    <span style=" font-size: 12px">
+                      <span style="color: rgb(33, 37, 41); font-size: 12px; background-color: rgba(255, 255, 255, 0.9)">
+                        <span style="color: rgb(33, 37, 41); font-size: 12px; background-color: rgba(255, 255, 255, 0.9)">Odoo Official Documentation.</span>
+                        <br/>
+                        <br/>
+                      </span>
+                    </span>
+                  </p>
+                  <p style="text-align: center;">
+                    <br/>
+                  </p>
+                  <p data-original-title="" title="" aria-describedby="tooltip494225" style="text-align: center;">
+                    <a href="https://github.com/odoo/documentation#readme" class="btn btn-fill-primary" data-original-title="" title="">Details</a>
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+  </t>
+</t>
