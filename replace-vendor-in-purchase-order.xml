@@ -1,0 +1,224 @@
+<t t-name="website.track-fields-inventory">
+  <t t-call="website.layout">
+    <div id="wrap" class="oe_structure oe_empty">
+      <section class="s_text_image o_cc o_cc5 pt48 pb48 o_colored_level" data-snippet="s_image_text" data-name="Image - Text" style="background-image: none;">
+        <div class="container-fluid">
+          <div class="row align-items-center">
+            <div class="col-lg-6 pt16 pb16 o_colored_level" style="">
+              <img src="/web/image/505-1ecaf9e8/banner%2520PURCHASE.svg" class="img img-fluid mx-auto" alt="" data-file-name="banner%20PURCHASE.svg" data-shape="web_editor/basic/bsc_square_1" data-shape-colors=";;;;" loading="lazy" data-original-mimetype="image/jpeg" style="" data-original-title="" title="" aria-describedby="tooltip763634" data-original-id="306" data-original-src="/web/image/306-36a0308f/banner%20PURCHASE.jpg" data-mimetype="image/svg+xml" data-resize-width="555"/>
+            </div>
+            <div class="col-lg-5 offset-lg-1 pt48 pb32 o_colored_level">
+              <h3>Change Vendor in Purchase Order</h3>
+              <p>
+                <span style="font-size: 18px;">This module allows you to</span>
+                <span style="color: rgb(100, 100, 100); font-size: 19.2px; font-weight: 300">
+                  <font class="text-o-color-4">
+                    <span style="font-size: 18px;">&amp;nbsp;change your Vendor in validated Purchase Orde</span>
+                  </font>
+                  <span style="font-size: 18px;">
+                    <font style="font-size: 18px;" class="text-o-color-4">r</font>
+                  </span>
+                </span>
+              </p>
+              <p data-original-title="" title="" aria-describedby="tooltip503318"><a href="https://apps.odoo.com/apps/modules/15.0/replace_vendor_po/" class="mb-2 btn btn-primary" data-original-title="" title="" target="_blank" style=""><span class="fa fa-shopping-cart" data-original-title="" title="" aria-describedby="tooltip337095"/>&amp;nbsp; Purchase &amp;amp; Download</a>&amp;nbsp;<a href="https://www.youtube.com/watch?v=Qsx5OP3S-jo" class="mb-2 btn btn-primary" data-original-title="" title="" target="_blank" style=""><span class="fa fa-video-camera" data-original-title="" title="" aria-describedby="tooltip337095"/>&amp;nbsp;Watch Demo </a>&amp;nbsp;<br/></p>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="s_tabs pt48 pb48 o_colored_level o_cc o_cc5" data-vcss="001" data-snippet="s_tabs" data-name="Tabs" style="background-image: none;">
+        <div class="container">
+          <div class="s_tabs_main">
+            <div class="s_tabs_nav mb-3">
+              <ul class="nav nav-pills" role="tablist">
+                <li class="nav-item">
+                  <a class="nav-link active" id="nav_tabs_link_1653383234392_303" data-toggle="tab" href="#nav_tabs_content_1653383234392_303" role="tab" aria-controls="nav_tabs_content_1653383234392_303" aria-selected="true">Module Purpose &amp;amp; Features</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" id="nav_tabs_link_1653383234392_304" data-toggle="tab" href="#nav_tabs_content_1653383234392_304" role="tab" aria-controls="nav_tabs_content_1653383234392_304" aria-selected="false">Technical Installation</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" id="nav_tabs_link_1653383234392_305" data-toggle="tab" href="#nav_tabs_content_1653383234392_305" role="tab" aria-controls="nav_tabs_content_1653383234392_305" aria-selected="false">Change Logs</a>
+                </li>
+              </ul>
+            </div>
+            <div class="s_tabs_content tab-content">
+              <div class="tab-pane fade active show" id="nav_tabs_content_1653383234392_303" role="tabpanel" aria-labelledby="nav_tabs_link_1653383234392_303">
+                <div class="oe_structure oe_empty" data-editor-message="DRAG BUILDING BLOCKS HERE">
+                  <section class="s_text_block" style="background-image: none;" data-name="Text">
+                    <div class="s_allow_columns container">
+                      <h2 style="text-align: center;"><br/>Change Vendor in Validated Purchase Order</h2>
+                      <h6 style="text-align: center;">
+                        <span style="font-size: 18px;"><br/>Do You ever mistakenly put a wrong Vendor in Purchase Order and wonder how you can fix it?</span>
+                        <br/>
+                        <span style="font-size: 18px;">Or do You wish to change your PO's Vendor as you need without cancelling all it's related documents?</span>
+                        <br/>
+                        <br/>
+                        <span style="font-size: 18px;">Well, You Found The Right Module!</span>
+                        <br/>
+                        <br/>
+                        <br/>
+                      </h6>
+                      <h4 style="text-align: center;">
+                        <b>
+                          <font style="color: rgb(231, 99, 99);">Change Your Vendor in Validated Purchase Order</font>
+                        </b>
+                      </h4>
+                      <h6 style="text-align: center;">
+                        <span style="color: rgb(100, 100, 100); font-size: 19.2px; font-weight: 300">
+                          <font class="text-o-color-4" style="font-size: 18px;">Allows you to change your Vendor in validated Purchase Order</font>
+                        </span>
+                        <br/>
+                        <br/>
+                      </h6>
+                      <p>
+                        <img class="img-fluid o_we_custom_image mx-auto d-block" src="/web/image/506-60ada727/validated.jpg" alt="" data-original-title="" title="" aria-describedby="tooltip327615" style="" loading="lazy" data-original-id="502" data-original-src="/web/image/502-db45eec3/validated.jpg" data-mimetype="image/jpeg" data-resize-width="512"/>
+                      </p>
+                      <p>
+                        <br/>
+                        <br/>
+                      </p>
+                      <h4 style="text-align: center;">
+                        <b>
+                          <font style="color: rgb(231, 99, 99);">Update With Only One-Click Away</font>
+                        </b>
+                      </h4>
+                      <h6 style="text-align: center;">
+                        <span style="color: rgb(100, 100, 100); font-size: 18px; font-weight: 300;">
+                          <font class="text-o-color-4">After revised Vendor is set, it will update it's all related documents just by clicking a button.</font>
+                        </span>
+                        <br/>
+                        <span style="color: rgb(100, 100, 100); font-size: 18px; font-weight: 300;">
+                          <font class="text-o-color-4">Picking Orders, Invoice, Journal Entries &amp;amp; Items data</font>
+                        </span>
+                        <br/>
+                        <span style="color: rgb(100, 100, 100); font-size: 18px; font-weight: 300;">
+                          <font class="text-o-color-4">All will changed automatically!</font>
+                        </span>
+                      </h6>
+                      <h6 style="text-align: center;">
+                        <br/>
+                      </h6>
+                      <h6 style="text-align: center;">
+                        <img class="img-fluid o_we_custom_image" src="/web/image/508-00b9c761/oneclick.png" alt="" data-original-title="" title="" aria-describedby="tooltip58805" loading="lazy" style="" data-original-id="503" data-original-src="/web/image/503-9a2ca49f/oneclick.png" data-mimetype="image/png" data-resize-width="1024"/>
+                      </h6>
+                      <h6 style="text-align: center;">&amp;nbsp;<br/><br/></h6>
+                      <h4 style="text-align: center;">
+                        <b style="font-size: 24px;">
+                          <font style="color: rgb(231, 99, 99);">For Specific User Only</font>
+                        </b>
+                      </h4>
+                      <h6 style="text-align: center;">
+                        <span style="color: rgb(100, 100, 100); font-size: 18px; font-weight: 300;">
+                          <font class="text-o-color-4">You can set this privilege for certain user only</font>
+                        </span>
+                        <br/>
+                      </h6>
+                      <h6 style="text-align: center;">
+                        <br/>
+                      </h6>
+                      <h6 style="text-align: center;"><img class="img-fluid o_we_custom_image" src="/web/image/507-170c0b6d/privilege.png" alt="" loading="lazy" style="" data-original-title="" title="" aria-describedby="tooltip232950" data-original-id="504" data-original-src="/web/image/504-35414dbd/privilege.png" data-mimetype="image/png" data-resize-width="613"/>&amp;nbsp;<br/></h6>
+                      <h6 style="text-align: center;">
+                        <br/>
+                      </h6>
+                    </div>
+                  </section>
+                </div>
+              </div>
+              <div class="tab-pane fade" id="nav_tabs_content_1653383234392_304" role="tabpanel" aria-labelledby="nav_tabs_link_1653383234392_304">
+                <div class="oe_structure oe_empty" data-editor-message="DRAG BUILDING BLOCKS HERE">
+                  <section class="s_text_block" style="background-image: none;" data-name="Text">
+                    <div class="container s_allow_columns">
+                      <p/>
+                      <ol><li>This module need dependencies (other modules) to run. It's called&amp;nbsp;<a href="https://apps.odoo.com/apps/modules/15.0/base_rename/" data-original-title="" title=""><font style="color: rgb(231, 99, 99);">​</font><font style="color: rgb(57, 123, 33);">​</font>"Base of Rename Module"</a>, You can download it for free.</li><li>Download this module and also&amp;nbsp;<a href="https://apps.odoo.com/apps/modules/15.0/base_rename/">"Base of Rename Module"</a>, then put it inside your Odoo Addons folder.</li><li>From Your Odoo interface, enter the&amp;nbsp;<b><font style="color: rgb(231, 99, 99);">settings menu</font></b>&amp;nbsp;&amp;gt;&amp;nbsp;<b><font style="color: rgb(231, 99, 99);">Activate the Developer Mode</font></b></li><li>Then, from your main menu go into&amp;nbsp;<b><font style="color: rgb(231, 99, 99);">Apps</font></b>&amp;nbsp;&amp;gt;&amp;nbsp;<b><font style="color: rgb(231, 99, 99);">Update Apps List</font></b>&amp;nbsp;&amp;gt;&amp;nbsp;<b><font style="color: rgb(231, 99, 99); font-weight: bolder;">Update</font></b>.</li><li>Install&amp;nbsp;<a href="https://apps.odoo.com/apps/modules/12.0/base_rename/">"Base of Rename Module"</a>&amp;nbsp;first, and then install this module.</li><li>Go to the&amp;nbsp;<b><font style="color: rgb(231, 99, 99);">Settings Menu</font></b>&amp;nbsp;&amp;gt;&amp;nbsp;<b><font style="color: rgb(231, 99, 99);">User &amp;amp; Companies</font></b><font style="color: rgb(231, 99, 99);">&amp;nbsp;</font>&amp;gt;&amp;nbsp;<b><font style="color: rgb(231, 99, 99);">Select User</font></b>.</li><li>Grant privileges to that User by changing the&amp;nbsp;<b><font style="color: rgb(231, 99, 99);">Rename Privilege</font></b>&amp;nbsp;selection</li><li>Refresh the user's browser, they will be able to change purchase order's vendor</li><br/>Note : If you also installing another "Replace Module", you will see the selection mode become the checkbox button. It's not a problem and will not going to affect anything.</ol>
+                      <p>
+                        <br/>
+                      </p>
+                      <p/>
+                    </div>
+                  </section>
+                </div>
+              </div>
+              <div class="tab-pane fade" id="nav_tabs_content_1653383234392_305" role="tabpanel" aria-labelledby="nav_tabs_link_1653383234392_305">
+                <div class="oe_structure oe_empty" data-editor-message="DRAG BUILDING BLOCKS HERE">
+                  <section class="s_text_block" style="background-image: none;" data-name="Text">
+                    <div class="container s_allow_columns">
+                      <ul>
+                        <li><font style="color: rgb(231, 99, 99); font-weight: bolder;">Version 15.0.0.1.1 (13&amp;nbsp;Mar&amp;nbsp;2022)</font><br/><ul/>Fixed bug that makes user cannot change the vendor name&amp;nbsp;while&amp;nbsp;vendor bills is not yet created.<br/><br/></li>
+                        <li><font color="#e76363"><span style="font-weight: bolder;">Version 15.0.0.1.0 (12 Mar&amp;nbsp;2022)</span></font><br/>
+                          Released for Odoo version 15.0
+                          <br/>
+                          <br/>
+                        </li>
+                        <li><font color="#e76363"><span style="font-weight: bolder;">Version 14.0.0.1.0 (5&amp;nbsp;Mar&amp;nbsp;2022)</span></font><br/>
+                          Released for Odoo version 14.0
+                          <br/>
+                          <br/>
+                        </li>
+                        <li><font style="color: rgb(231, 99, 99); font-weight: bolder;">Version 13.0.0.1.0 (2 Mar&amp;nbsp;2022)</font><br/>Released for Odoo version 13.0<br/><br/></li>
+                        <li>
+                          <font style="color: rgb(231, 99, 99); font-weight: bolder;">Version 12.0.0.1.0 (9 Feb&amp;nbsp;2022)</font>
+                          <br/>
+                          <span style="font-weight: normal;">Released for Odoo version 12.0</span>
+                        </li>
+                      </ul>
+                    </div>
+                  </section>
+                </div>
+              </div>
+              <div class="tab-pane fade" id="nav_tabs_content_1653383205102_289" role="tabpanel" aria-labelledby="nav_tabs_link_1653383205102_289">
+                <div class="oe_structure oe_empty" data-editor-message="DRAG BUILDING BLOCKS HERE">
+                  <section class="s_text_block" style="background-image: none;" data-name="Text">
+                    <div class="container s_allow_columns">
+                      <div class="oe_span12">
+                        <h4 class="oe_slogan">Create History After Editing Inventory</h4>
+                      </div>
+                    </div>
+                  </section>
+                </div>
+              </div>
+              <div class="tab-pane fade" id="nav_tabs_content_1653037869046_95" role="tabpanel" aria-labelledby="nav_tabs_link_1653037869046_95">
+                <div class="oe_structure oe_empty" data-editor-message="DRAG BUILDING BLOCKS HERE">
+                  <section class="s_text_block" style="background-image: none;" data-name="Text">
+                    <div class="container s_allow_columns">
+                      <ul>
+                        <li>
+                          <span style=" color: rgb(255, 255, 255); background-color: rgb(35, 38, 43); font-size: 18px">15.0.0.1.0 - (7 May 2022)</span>
+                          <br/>
+                          <span style=" color: rgb(255, 255, 255); background-color: rgb(35, 38, 43)">Released for Odoo Version 14</span>
+                          <br/>
+                          <br/>
+                        </li>
+                        <li>
+                          <span style=" color: rgb(255, 255, 255); background-color: rgb(35, 38, 43); font-size: 18px">14.0.0.1.0 - (7 May 2022)</span>
+                          <br/>
+                          <span style="color: rgb(255, 255, 255); background-color: rgb(35, 38, 43)">Released for Odoo Version 14<br/></span>
+                          <br/>
+                        </li>
+                        <li><span style="font-size: 18px;">13.0.0.1.0 - (7 May 2022)</span><br/>Released for Odoo Version 13<br/><br/></li>
+                        <li>
+                          <p><span style=" color: rgb(255, 255, 255); background-color: rgb(35, 38, 43)"><span style=" font-size: 18px">12.0.0.1.0 - (5 May 2022)</span><br/></span>Released for Odoo Version 12&amp;nbsp;</p>
+                        </li>
+                      </ul>
+                      <p>
+                        <br/>
+                      </p>
+                    </div>
+                  </section>
+                </div>
+              </div>
+              <div class="tab-pane fade" id="nav_tabs_content_1653037869046_96" role="tabpanel" aria-labelledby="nav_tabs_link_1653037869046_96">
+                <div class="oe_structure oe_empty" data-editor-message="DRAG BUILDING BLOCKS HERE">
+                  <section class="s_text_block" style="background-image: none;" data-name="Text">
+                    <div class="container s_allow_columns">
+                      <p class="o_default_snippet_text">Start with the customer – find out what they want and give it to them.</p>
+                    </div>
+                  </section>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+  </t>
+</t>
